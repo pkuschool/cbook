@@ -1,6 +1,10 @@
 # 博雅学院
 
 ## 学院事务
+
+![boya][1]
+[1]: https://processon.com/chart_image/5cec78a8e4b0fea7c10e652f.png  "boya"
+
  [人文项目](https://pkuschool.github.io/Pkuschool-PBL/)面向高中部全体学生，除公共说理为全校必修，其他采用双选制：学生根据个人兴趣选择，项目主管教师发布筛选机制。两年总数量满足两届学生数。
 
 [语言文化项目](https://pkuschool.github.io/2019/04/29/lan2cul/)面向高中全体学生，开设中文创意写作课程，同时引入欧洲为主各国语言文化项目；为学生升入高校后发展提供支持。
@@ -16,6 +20,6 @@
 
 2019年9月起，人文项目与综合实践深度结合，学分对应关系如图：
 
-<center>
-<img src='images/zhixing.png' style='width:350px;' alt='' title='all'>
-</center>
+<div  align="center">    
+ <img src="/images/zhixing.png" width = "560" height = "370" alt="图片名称" align=center />
+</div>

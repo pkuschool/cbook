@@ -19,7 +19,7 @@
     * [荣誉课程 Honors Course](chapter3/section3.md)
     * [重修和缓考](chapter3/section4.md)
     * [自修和免修](chapter3/section5.md)
-    * [附录](chapter4/README.md)
+* [附录](chapter4/README.md)
     * [附录一](chapter4/section1.md)
     * [附录二](chapter4/section2.md)
 
