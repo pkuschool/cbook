@@ -16,12 +16,13 @@
        "-lunr",
        "-search",
        "search-plus",
+       "github-buttons",
        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy 北大附中",
-            "modify_label": "updated：",
+            "modify_label": "Updated:",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "github": {
@@ -35,6 +36,16 @@
                 "120x120": "assets/images/apple-touch-icon-120x120.png",
                 "180x180": "assets/images/apple-touch-icon-180x180.png"
             }
-        }
+        },
+        "github-buttons": {
+            "buttons": [
+              {
+                "user": "pkuschool",
+                "type": "follow",
+                "width": "230",
+                "size": "small"
+              }
+            ]
+            }
     }
 }

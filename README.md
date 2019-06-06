@@ -12,4 +12,8 @@
 
 博雅学院负责开设公共说理 、口述历史 、书院视点、银杏讲坛 ，模拟法庭等人文项目，开设包含创意写作的语言文化项目。
 
-北大附中高中部学制2年，每学年分4个学段，每学段的教学时间为10周，每周36课时，每课时45分钟，18课时为1学分。
+北大附中高中部学制2年，每学年分4个学段，每学段的教学时间为10周，每周36课时，每课时45分钟，18课时为1学分。<br><br><br>
+
+---
+如有疑问，请点击页面右上角
+[<img src=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png width = "50" height = "50" alt="Q&A" />](https://github.com/pkuschool/cbook/issues)提问。

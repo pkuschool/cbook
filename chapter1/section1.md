@@ -4,6 +4,6 @@
 
 课表结构
 
-<img src="/images/1819structure.png" width = "909" height = "269" alt="课表结构18-19" align=center />
+<img src="/images/1819structure.png" width = "700" height = "179" alt="课表结构18-19" align=center />
 
 2019年新课表结构制定中。
